@@ -1,10 +1,8 @@
-
-
-
-
-
-## Description
-- a webapp people can access to colborate and meet other user to talk about their mental health
+# Therapal
+## Created By
+- Trevor Tan, Nathan Schroter, Nea
+## Description 
+- An application that encourages people that has been mentally affected by the COVID-19 Pandemic to help the socially anxious, and people who want to improve their communication skills in general, connect with each other, practice their communication skills, and get the professional help that they need.
 ## Packages installed
 - npx create-next-app mindgarden
-- nextjs
+- next.js
